@@ -1,0 +1,23 @@
+{
+  "name": "fantasma",
+  "displayName": "fantasma",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon":"icon.png",
+  "publisher":"",
+  "contributes": {
+    "themes": [
+      {
+        "label": "fantasma",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fantasma-color-theme.json"
+      }
+    ]
+  }
+}
